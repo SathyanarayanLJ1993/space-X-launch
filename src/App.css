@@ -1,0 +1,9 @@
+.scroll-me:hover {
+  overflow-y: scroll;
+  max-height: 50vw;
+}
+
+.space-x-card {
+  max-height: 500px !important;
+  min-height: 500px !important;
+}
